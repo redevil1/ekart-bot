@@ -193,10 +193,9 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ## 💬 Support & Contact
 
-- 📧 **Email**: support@ekartbot.com
 - 🐛 **Issues**: [GitHub Issues](https://github.com/redevil1/ekart-bot/issues)
-- 💬 **Telegram Support**: @EkartBotSupport
-- 🌐 **Website**: [Coming Soon]
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/redevil1/ekart-bot/discussions)
+- ⭐ **Star this repo**: Show your support by starring the project!
 
 ---
 
