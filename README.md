@@ -2,7 +2,7 @@
 
 > **Track Your Ekart Package Using Telegram Bot and Get Real-Time Updates** - Never miss a delivery update again with automated tracking notifications delivered straight to your Telegram app.
 
-[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram)](https://telegram.org/)
+[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram)](https://t.me/merablack)
 [![Ekart Logistics](https://img.shields.io/badge/Ekart-Logistics-orange?style=for-the-badge)](https://ekartlogistics.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/redevil1/ekart-bot?style=for-the-badge)](https://github.com/redevil1/ekart-bot/stargazers)
